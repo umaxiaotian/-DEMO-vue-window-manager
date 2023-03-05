@@ -115,6 +115,11 @@ export default defineComponent({
 </template>
 <style>
 html, body {
+  background-image: url("/bgimg.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
   background-color: #2a6a83;
   height: 100%;
   width: 100%;
