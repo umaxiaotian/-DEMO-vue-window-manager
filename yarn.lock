@@ -4751,10 +4751,10 @@ vue-router@^4.1.6:
   dependencies:
     "@vue/devtools-api" "^6.4.5"
 
-vue-window-manager@^0.3.1:
-  version "0.3.1"
-  resolved "https://registry.yarnpkg.com/vue-window-manager/-/vue-window-manager-0.3.1.tgz#90f42196a448ca9aedc6d58c6541531e42d0f020"
-  integrity sha512-CBk+Y0EqH+EXfJgOwzqWupZbWLpa9noxuspHsWJe9/7LrDHD6ssaf5ZDrUu0aOM2VRZtevubv4ST5Fmq02brlg==
+vue-window-manager@^0.3.4:
+  version "0.3.4"
+  resolved "https://registry.yarnpkg.com/vue-window-manager/-/vue-window-manager-0.3.4.tgz#d4f9ec5d6881164793348ac5d0fd101aa1a4e49d"
+  integrity sha512-G60FQ+/O4UWHFyyWPmmTMR7P2j2fYZR2uFN6Tnn82j9BGgmNRzBoErav/ebmdQmcOxCgsJCioO2Q0ShhyFN7lw==
   dependencies:
     typescript "^4.9.5"
     vue "^3.2.47"
