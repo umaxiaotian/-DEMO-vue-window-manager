@@ -12,6 +12,6 @@
   },
   "dependencies": {
     "vue": "^3.2.47",
-    "vue-window-manager": "^0.3.4"
+    "vue-window-manager": "^0.3.6"
   }
 }
